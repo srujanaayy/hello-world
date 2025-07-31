@@ -1,2 +1,1 @@
-hello
-game player
+game players only
